@@ -1,0 +1,9 @@
+Package: com.daapps.installipa
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Dennis Torbichuk <dennis@biudvikling.dk>
+Author: Dennis Torbichuk <dennis@biudvikling.dk>
+Section: System
+Description: installipa apps from the command-line
+Name: installipa
+Tag: purpose::console, role::hacker
